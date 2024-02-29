@@ -5,7 +5,7 @@
 .gallery img {
     width: 100%;
     max-width: 350px;
-    height: 40px;
+    height: 400px;
     object-fit: cover;
     border-radius: 10px;
 }
